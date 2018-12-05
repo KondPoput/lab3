@@ -1,1 +1,9 @@
+<!DOCTYPE html>
 AddType application/x-httpd-php .htm .html
+<html lang="en">
+<head>
+</head>
+<body class="page_bg">
+
+</body>
+</html> 
